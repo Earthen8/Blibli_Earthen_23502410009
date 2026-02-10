@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'login.dart'; // Import your login page here
+import 'login.dart';
 
 class AccountPage extends StatelessWidget {
   const AccountPage({super.key});
